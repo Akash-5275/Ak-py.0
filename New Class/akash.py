@@ -30,10 +30,6 @@ h= a//b
 print("The Floor Division is",h)
 
 
-echo "# Ak-py.0" >> README.md
 
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Akash-5275/Ak-py.0.git
-git push -u origin main
+
